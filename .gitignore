@@ -1,0 +1,13 @@
+# Dev tools (not part of the site)
+serve.mjs
+screenshot.mjs
+CLAUDE.md
+temporary screenshots/
+
+# Claude memory
+.claude/
+
+# Node (if any)
+node_modules/
+package-lock.json
+package.json
